@@ -1,4 +1,4 @@
-# Thanksu UI design
+# Thanksy UI design
 User interface for web-based Thanksy client
 
 You might be also interested in looking at the client app for Thanksy:
